@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus Projetos</title>
+  <style>
+    body {
+      background-color: #f3f4f6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    .menu {
+      list-style: none;
+      padding: 0;
+      margin: 0 auto;
+      max-width: 400px;
+    }
+
+    .menu li {
+      margin: 15px 0;
+    }
+
+    .menu a {
+      text-decoration: none;
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 6px;
+      display: inline-block;
+      transition: background-color 0.3s;
+    }
+
+    .menu a:hover {
+      background-color: #388e3c;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🌐 Minhas Páginas</h1>
+
+  <ul class="menu">
+    <li><a href="https://maickelbecker.github.io/churrilho/" target="_blank">Página do Churrilho</a></li>
+    <li><a href="https://maickelbecker.github.io/carta/" target="_blank">Carta ao Churrilho</a></li>
+  </ul>
+
+</body>
+</html>
